@@ -11,6 +11,13 @@ This repository contains a collection of Excel-based projects that cover various
 
   
 ## Project Descriptions
+
+### Fashion Fusion: Annual Sales Report Dashboard:
+This Excel project allows selle named Fashion Fusion to track and analyze  sales data using various sales e-commerce channels. It uses pivot tables and charts to visualize sales trends.
+
+<img width="868" alt="image" src="https://github.com/CodeCraftsmanRajesh/Excel-Projects/assets/143902874/80956b1a-7d65-4caf-b35c-ab796bb07292">
+
+
 ### Bike Sales Tracker: 
 This Excel project allows you to track and analyze bike sales data. It uses pivot tables and charts to visualize sales trends.
 
